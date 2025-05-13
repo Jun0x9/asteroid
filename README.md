@@ -1,1 +1,3 @@
-##asteroid game using raylib [https://www.raylib.com]
+# asteroid 
+
+classic arcade game made using raylib [https://www.raylib.com]
