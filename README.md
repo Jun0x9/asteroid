@@ -1,1 +1,1 @@
-![asteroid game] using raylib [https://www.raylib.com]
+##asteroid game using raylib [https://www.raylib.com]
